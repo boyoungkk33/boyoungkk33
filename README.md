@@ -17,7 +17,14 @@
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
-  <a href="mailto:boyoungyesyes@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=boyoungyesyes@gmail.com"/></a>
+<a href="mailto:boyoungyesyes@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=boyoungyesyes@gmail.com" width="60" height="20" />
+</a>
+<a href="https://bombastic.tistory.com">
+  <img src="https://img.shields.io/badge/Tistory-E6B91E?style=for-the-badge&logo=Tistory&logoColor=white" width="60" height="20" />
+</a>
+
+
 
 
 <p align="center">
